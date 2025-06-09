@@ -27,13 +27,13 @@ El dataset contiene las siguientes columnas:
    ```bash
    python generar_dataset.py
 2. **Analizar los datos**:
+   ```bash
    python analizar_dataset.py
 Requisitos
 Python 3.6+
 
 Bibliotecas requeridas (instalar con pip install -r requirements.txt):
-
-text
+   ```bash
 pandas
 numpy
 matplotlib
