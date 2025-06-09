@@ -25,10 +25,10 @@ El dataset contiene las siguientes columnas:
 
 1. **Generar el dataset**:
    ```bash
-   python generar_dataset.py
+   python Creacion.py
 2. **Analizar los datos**:
    ```bash
-   python analizar_dataset.py
+   python Analisis.py
 Requisitos
 Python 3.6+
 
