@@ -32,7 +32,7 @@ El dataset contiene las siguientes columnas:
 Requisitos
 Python 3.6+
 
-Bibliotecas requeridas (instalar con pip install -r requirements.txt):
+Bibliotecas requeridas:
    ```bash
 pandas
 numpy
