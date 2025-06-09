@@ -38,3 +38,8 @@ pandas
 numpy
 matplotlib
 seaborn
+![Figure_1](https://github.com/user-attachments/assets/90ec8f94-fd56-407e-8e56-41b0758ffe79)
+
+![Figure_2](https://github.com/user-attachments/assets/92907741-8c74-43cd-8bb7-8468452491f0)
+
+![Figure_3](https://github.com/user-attachments/assets/a0d39ce9-d1d8-4c3a-ac9a-fe62c60efe44)
